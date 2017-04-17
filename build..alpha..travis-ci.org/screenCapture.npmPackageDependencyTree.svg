@@ -1,0 +1,68 @@
+<svg height="1038" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1038" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">8 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">├── UNMET PEER DEPENDENCY css-loader@*</tspan>
+<tspan x="10" y="90">├─┬ vue-loader@11.3.4 </tspan>
+<tspan x="10" y="106">│ ├─┬ consolidate@0.14.5 </tspan>
+<tspan x="10" y="122">│ │ └── bluebird@3.5.0 </tspan>
+<tspan x="10" y="138">│ ├── hash-sum@1.0.2 </tspan>
+<tspan x="10" y="154">│ ├─┬ js-beautify@1.6.12 </tspan>
+<tspan x="10" y="170">│ │ ├─┬ config-chain@1.1.11 </tspan>
+<tspan x="10" y="186">│ │ │ ├── ini@1.3.4 </tspan>
+<tspan x="10" y="202">│ │ │ └── proto-list@1.2.4 </tspan>
+<tspan x="10" y="218">│ │ ├─┬ editorconfig@0.13.2 </tspan>
+<tspan x="10" y="234">│ │ │ ├─┬ commander@2.9.0 </tspan>
+<tspan x="10" y="250">│ │ │ │ └── graceful-readlink@1.0.1 </tspan>
+<tspan x="10" y="266">│ │ │ ├── lru-cache@3.2.0 </tspan>
+<tspan x="10" y="282">│ │ │ └── sigmund@1.0.1 </tspan>
+<tspan x="10" y="298">│ │ ├─┬ mkdirp@0.5.1 </tspan>
+<tspan x="10" y="314">│ │ │ └── minimist@0.0.8 </tspan>
+<tspan x="10" y="330">│ │ └─┬ nopt@3.0.6 </tspan>
+<tspan x="10" y="346">│ │   └── abbrev@1.1.0 </tspan>
+<tspan x="10" y="362">│ ├─┬ loader-utils@1.1.0 </tspan>
+<tspan x="10" y="378">│ │ ├── big.js@3.1.3 </tspan>
+<tspan x="10" y="394">│ │ ├── emojis-list@2.1.0 </tspan>
+<tspan x="10" y="410">│ │ └── json5@0.5.1 </tspan>
+<tspan x="10" y="426">│ ├─┬ lru-cache@4.0.2 </tspan>
+<tspan x="10" y="442">│ │ ├── pseudomap@1.0.2 </tspan>
+<tspan x="10" y="458">│ │ └── yallist@2.1.2 </tspan>
+<tspan x="10" y="474">│ ├─┬ postcss@5.2.17 </tspan>
+<tspan x="10" y="490">│ │ ├─┬ chalk@1.1.3 </tspan>
+<tspan x="10" y="506">│ │ │ ├── ansi-styles@2.2.1 </tspan>
+<tspan x="10" y="522">│ │ │ ├── escape-string-regexp@1.0.5 </tspan>
+<tspan x="10" y="538">│ │ │ ├─┬ has-ansi@2.0.0 </tspan>
+<tspan x="10" y="554">│ │ │ │ └── ansi-regex@2.1.1 </tspan>
+<tspan x="10" y="570">│ │ │ ├── strip-ansi@3.0.1 </tspan>
+<tspan x="10" y="586">│ │ │ └── supports-color@2.0.0 </tspan>
+<tspan x="10" y="602">│ │ ├── js-base64@2.1.9 </tspan>
+<tspan x="10" y="618">│ │ └─┬ supports-color@3.2.3 </tspan>
+<tspan x="10" y="634">│ │   └── has-flag@1.0.0 </tspan>
+<tspan x="10" y="650">│ ├─┬ postcss-load-config@1.2.0 </tspan>
+<tspan x="10" y="666">│ │ ├─┬ cosmiconfig@2.1.1 </tspan>
+<tspan x="10" y="682">│ │ │ ├─┬ js-yaml@3.8.3 </tspan>
+<tspan x="10" y="698">│ │ │ │ ├─┬ argparse@1.0.9 </tspan>
+<tspan x="10" y="714">│ │ │ │ │ └── sprintf-js@1.0.3 </tspan>
+<tspan x="10" y="730">│ │ │ │ └── esprima@3.1.3 </tspan>
+<tspan x="10" y="746">│ │ │ ├── minimist@1.2.0 </tspan>
+<tspan x="10" y="762">│ │ │ ├── os-homedir@1.0.2 </tspan>
+<tspan x="10" y="778">│ │ │ ├─┬ parse-json@2.2.0 </tspan>
+<tspan x="10" y="794">│ │ │ │ └─┬ error-ex@1.3.1 </tspan>
+<tspan x="10" y="810">│ │ │ │   └── is-arrayish@0.2.1 </tspan>
+<tspan x="10" y="826">│ │ │ └── require-from-string@1.2.1 </tspan>
+<tspan x="10" y="842">│ │ ├── object-assign@4.1.1 </tspan>
+<tspan x="10" y="858">│ │ ├── postcss-load-options@1.2.0 </tspan>
+<tspan x="10" y="874">│ │ └── postcss-load-plugins@2.3.0 </tspan>
+<tspan x="10" y="890">│ ├─┬ postcss-selector-parser@2.2.3 </tspan>
+<tspan x="10" y="906">│ │ ├── flatten@1.0.2 </tspan>
+<tspan x="10" y="922">│ │ ├── indexes-of@1.0.1 </tspan>
+<tspan x="10" y="938">│ │ └── uniq@1.0.1 </tspan>
+<tspan x="10" y="954">│ ├── source-map@0.5.6 </tspan>
+<tspan x="10" y="970">│ ├── vue-hot-reload-api@2.1.0 </tspan>
+<tspan x="10" y="986">│ ├── vue-style-loader@2.0.5 </tspan>
+<tspan x="10" y="1002">│ └── vue-template-es2015-compiler@1.5.2 </tspan>
+<tspan x="10" y="1018">└── UNMET PEER DEPENDENCY vue-template-compiler@^2.0.0</tspan>
+</text>
+</svg>
