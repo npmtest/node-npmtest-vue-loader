@@ -1,4 +1,7 @@
-# test coverage for  [vue-loader (v11.3.4)](https://github.com/vuejs/vue-loader)  [![npm package](https://img.shields.io/npm/v/npmtest-vue-loader.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-vue-loader) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-vue-loader.svg)](https://travis-ci.org/npmtest/node-npmtest-vue-loader)
+# npmtest-vue-loader
+
+#### basic test coverage for  [vue-loader (v11.3.4)](https://github.com/vuejs/vue-loader)  [![npm package](https://img.shields.io/npm/v/npmtest-vue-loader.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-vue-loader) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-vue-loader.svg)](https://travis-ci.org/npmtest/node-npmtest-vue-loader)
+
 #### Vue single-file component loader for Webpack
 
 [![NPM](https://nodei.co/npm/vue-loader.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/vue-loader)
